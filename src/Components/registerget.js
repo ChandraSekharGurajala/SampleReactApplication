@@ -275,14 +275,6 @@ export default class Registerget extends Component {
           users:usersData
         },()=>{console.log(this.state)})
       }
-  // async delete(){
-  //     console.log("eswar");
-  // }
-
-
-
-
-
   deleteProduct=(username)=> 
    {
      debugger;
