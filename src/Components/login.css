@@ -1,0 +1,12 @@
+.content{
+    height: 100%;
+    width: 100%;
+    padding: 100px;
+}
+.labelinput{
+    display: flex;
+}
+.form{
+    padding-left: 20px;
+    padding: 5px;
+}

@@ -1,0 +1,10 @@
+.table{
+   padding-left: 60px;
+   padding-top: 20px;
+   background-color: gray;
+}
+th,td{
+   font-style: initial;
+   padding: 10px;
+   padding-left: 20px;
+}
